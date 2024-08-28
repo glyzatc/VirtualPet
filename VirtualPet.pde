@@ -12,8 +12,8 @@ void draw ()
   ellipse (115, 135, 70, 70);
    //inner ear
   fill (#D3B493);
-  circle (285, 135, 50);
-  circle (115, 135, 50);
+  ellipse (285, 135, 50, 50);
+  ellipse (115, 135, 50, 50);
   //head shape
   fill (#55391B);
   ellipse (200, 140, 160,110);
